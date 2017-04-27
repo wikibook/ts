@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "target": "es6",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
+  },  
+  "exclude": [
+    "node_modules",
+    ".vscode"
+  ]
+}
+
+/*
+변경 과정을 이해하기 위해 target을 es5나 es6로 변경해 가면서 테스트 해보는 것이 필요합니다.
+*/

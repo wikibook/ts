@@ -1,0 +1,13 @@
+let value = 2;
+var value1 = value & value;
+var value2 = value | value;
+var value3 = value ^ value;
+var value4 = ~value;
+var value5 = value << 1;
+var value6 = value >> 1;
+console.log("1번 : ", typeof value1, value1);
+console.log("2번 : ", typeof value2, value2);
+console.log("3번 : ", typeof value3, value3);
+console.log("4번 : ", typeof value4, value4);
+console.log("5번 : ", typeof value5, value5);
+console.log("6번 : ", typeof value6, value6);

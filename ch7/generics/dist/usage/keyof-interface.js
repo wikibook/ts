@@ -1,0 +1,1 @@
+var myNum = "one";
